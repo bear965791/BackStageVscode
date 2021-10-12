@@ -1,0 +1,19 @@
+.table {
+      table-layout: fixed; 
+      word-wrap:break-word;
+}
+
+/*可改scss*/
+tr{
+  text-align: center
+}
+
+
+a,a:link,a:visited{color:black}
+
+
+
+thead th:first-child,tbody td:first-child {
+      width: 300px;
+}
+  
